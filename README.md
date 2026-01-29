@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 I am a Computer Engineering student passionate about technology, software development, and problem-solving.  
-I am currently building projects to improve my skills in programming, web development, and IT fundamentals.
+I am currently building projects to improve my skills in programming, web development, AI-Automation, and IT fundamentals.
 
 ---
 
@@ -27,7 +27,7 @@ I am currently building projects to improve my skills in programming, web develo
 
 ## 📫 Contact Me
 - Email: jcos83531@example.com
-- GitHub: https://github.com/your-username
+- GitHub: https://github.com/Jomari-Cos/jomari-cos
 - LinkedIn: https://www.linkedin.com/in/jomari-cos-4516043a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 ---
