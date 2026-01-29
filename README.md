@@ -15,7 +15,8 @@ I am currently building projects to improve my skills in programming, web develo
 - Basic Web: HTML, CSS, JavaScript, Flask
 - Database:  SQL
 - Tools: VS Code and Visual Studio
-- Others: Hardware troubleshooting, basic networking
+- Others: Hardware & Embedded System
+    (Arduino UNO, ESP32, ESP8266, Raspberry Pi)
 
 ---
 
